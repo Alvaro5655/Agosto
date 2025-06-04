@@ -1,0 +1,1 @@
+print("Hola mi nombre es %s %s %s %s y tengo %d")(fuction)
