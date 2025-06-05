@@ -1,1 +1,1 @@
-print("Hola mi nombre es %s %s %s %s y tengo %d")(fuction)
+print("Hola mi nombre es %s %s %s %s y tengo %d")(fuction )
